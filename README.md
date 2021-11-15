@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Frext
-- 👀 I’m interested in game, game engine and software tools programming.
-- 🌱 I’m currently learning C and C#.
+- 👀 I’m interested in developing apps, and software tools.
+- 🌱 I know C, C# and Python.
 - 💞️ I’m looking to collaborate on code revisions.
 - 📫 How to reach me ...
 
