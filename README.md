@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Frext
-- 👀 I’m interested in developing apps, and software tools.
-- 🌱 I know C, C# and Python.
+- 👀 I’m interested in developing mobile applications.
+- 🌱 I currently code in Python and Kotlin.
 - 💞️ I’m looking to collaborate on code revisions.
 - 📫 How to reach me ...
 
