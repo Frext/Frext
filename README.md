@@ -1,3 +1,5 @@
+# About Me
+
 - 👋 Hi, I’m @Frext
 - 👀 I’m interested in developing mobile applications.
 - 🌱 I code in C# and Kotlin.
