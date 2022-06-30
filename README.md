@@ -5,7 +5,7 @@
 - 🌱 I code in C# and Kotlin.
 
 Hello, my name is Furkan. I've been interested in computers since I was 8. I've started coding with Scratch. Then, I learned C when I was 13. Later on, I learned C# and Python.
-Currently, I'm learning Kotlin to be an Android developer.
+Currently, I'm trying Unity.
 
 <!---
 Frext/Frext is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
