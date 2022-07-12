@@ -1,7 +1,7 @@
 # About Me
 
 - 👋 Hi, I’m @Frext
-- 👀 I’m interested in developing mobile applications.
+- 👀 I’m interested in developing mobile applications and mobile games.
 - 🌱 I code in C# and Kotlin.
 
 Hello, my name is Furkan. I've been interested in computers since I was 8. I've started coding with Scratch. Then, I learned C when I was 13. Later on, I learned C# and Python.
