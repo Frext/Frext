@@ -1,6 +1,6 @@
 # About Me
 
-- 👋 Hi, I’m @Frext
+- 👋 Hi, I’m Furkan.
 - 👀 I’m interested in developing mobile applications and mobile games.
 - 🌱 I code in C# and Kotlin.
 
