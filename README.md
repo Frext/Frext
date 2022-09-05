@@ -11,7 +11,8 @@
 Hello, my name is Furkan. I've been interested in computers since I was 8. I've started coding with Scratch. Then, I learned C when I was 13. Later on, I learned C# and Python.
 
 📚 I’m currently learning Unity.
-<br/>
+
+
 🖌️ I love drawing and cooking.
 
 
