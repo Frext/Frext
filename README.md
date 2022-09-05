@@ -6,7 +6,7 @@
 </p>
 
 
-<h2 align="left"> 👓 About Me</h2>
+<h2 align="left"> 😎 About Me</h2>
 
 Hello, my name is Furkan. I've been interested in computers since I was 8. I've started coding with Scratch. Then, I learned C when I was 13. Later on, I learned C# and Python.
 
