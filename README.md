@@ -32,7 +32,7 @@ Hello, my name is Furkan. I started coding in C when I was 13. Later on, I learn
 <br/>
 <h2 align="left">Showcase</h2>
 
-[ZigZag Clone](https://github.com/Frext/Zigzag-Clone)
+<a align="center" href="https://github.com/Frext/Zigzag-Clone">ZigZag Clone<a/> 
 
 <br/>
 <h2 align="left">📫 Contact Me</h2>
