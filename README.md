@@ -12,6 +12,8 @@ Hello, my name is Furkan. I started coding in C when I was 13. Later on, I learn
 
 
 🖌️ I love drawing and cooking.
+
+
 🕹️ My favorite game series is Crysis.
 
 
