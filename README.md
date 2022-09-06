@@ -43,7 +43,7 @@ Hello, my name is Furkan. I started coding in C when I was 13. Later on, I learn
   
 <br/>
 <h2 align="left">📫 Contact Me</h2>
-
+<img src="https://cdn.buymeacoffee.com/assets/img/home-page-v3/bmc-new-logo.png" width="50" height="50" alt="Buy me a coffee website logo" title="Buy me a coffee"/>
 
 <br/>
 <img src="https://komarev.com/ghpvc/?username=FrextL&style=flat-square&color=blue" alt="Github View Counter"/>
