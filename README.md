@@ -36,7 +36,9 @@ Hello, my name is Furkan. I started coding in C when I was 13. Later on, I learn
   <a align="center" href="https://github.com/Frext/Zigzag-Clone">ZigZag Clone<a/> 
     <br/>
     <br/>
-  <img src="https://play-lh.googleusercontent.com/6pyha8P40IH8Yn7ets-yr-sDmze-lif7Lh80ZMffdBojvhAtGTk88zHru3UHeipNhA" width="100" height="100" alt="ZigZag Game Logo" title="ZigZag Clone"<img/>
+    <a href="https://github.com/Frext/Zigzag-Clone">
+  <img src="https://play-lh.googleusercontent.com/6pyha8P40IH8Yn7ets-yr-sDmze-lif7Lh80ZMffdBojvhAtGTk88zHru3UHeipNhA" width="100" height="100" alt="ZigZag Game Logo" title="ZigZag Clone" href=<img/>
+      <a/>
 </td></tr></table>
   
 <br/>
