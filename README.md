@@ -49,4 +49,6 @@ Hello, my name is Furkan. I started coding in C when I was 13. Later on, I learn
 
 <br/>
 <br/>
+    <br/><br/>
+    <br/>
 <img src="https://komarev.com/ghpvc/?username=FrextL&style=flat-square&color=blue" alt="Github View Counter"/>
