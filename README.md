@@ -11,6 +11,7 @@
 Hello, my name is Furkan. I started coding in C when I was 13. Later on, I learned C# and Python.\
 And I’m currently learning Unity.
 
+I'm trying to improve myself on gameplay programming.
 
 🖌️ I love drawing and cooking.
 
