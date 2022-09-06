@@ -47,8 +47,5 @@ Hello, my name is Furkan. I started coding in C when I was 13. Later on, I learn
 <img src="https://bmc-dev.s3.us-east-2.amazonaws.com/assets/icons/bmc_icon_black.png" width="50" height="50" alt="Buy me a coffee website logo" title="Buy me a coffee"/>
     <a/>
 
-<br/>
-<br/>
-    <br/><br/>
-    <br/>
+    
 <img src="https://komarev.com/ghpvc/?username=FrextL&style=flat-square&color=blue" alt="Github View Counter"/>
