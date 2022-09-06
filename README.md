@@ -15,7 +15,7 @@ Hello, my name is Furkan. I started coding in C when I was 13. Later on, I learn
 
 
 <br/>
-<h2 align="left">🔨 Languages and Tools</h2>
+<h2 align="left">⚙️ Languages and Tools</h2>
   <p align="left">
     <a> <img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" alt="unity" title="Unity" width="45" height="45" /> </a>
     &nbsp;
