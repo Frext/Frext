@@ -41,7 +41,7 @@ I'm trying to improve myself on gameplay programming.
       <br/>
       <br/>
       <a href="https://github.com/Frext/Zigzag-Clone">
-        <img src="https://play-lh.googleusercontent.com/6pyha8P40IH8Yn7ets-yr-sDmze-lif7Lh80ZMffdBojvhAtGTk88zHru3UHeipNhA" width="100" height="100" alt="ZigZag Game Logo" title="ZigZag Clone"<img/>
+        <img src="https://play-lh.googleusercontent.com/6pyha8P40IH8Yn7ets-yr-sDmze-lif7Lh80ZMffdBojvhAtGTk88zHru3UHeipNhA" width="100" height="100" alt="ZigZag Game Logo"<img/>
       <a/>
   </td></tr></table>
   
