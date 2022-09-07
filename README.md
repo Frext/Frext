@@ -36,15 +36,14 @@ I'm trying to improve myself on gameplay programming.
 
 <br/>
 <h2 align="left">Unity Showcase</h2>
-
-<table><tr><td>
-  <a align="center" href="https://github.com/Frext/Zigzag-Clone">ZigZag Clone<a/> 
-    <br/>
-    <br/>
-    <a href="https://github.com/Frext/Zigzag-Clone">
-  <img src="https://play-lh.googleusercontent.com/6pyha8P40IH8Yn7ets-yr-sDmze-lif7Lh80ZMffdBojvhAtGTk88zHru3UHeipNhA" width="100" height="100" alt="ZigZag Game Logo" title="ZigZag Clone"<img/>
+  <table><tr><td>
+    <a align="center" href="https://github.com/Frext/Zigzag-Clone">ZigZag Clone<a/> 
+      <br/>
+      <br/>
+      <a href="https://github.com/Frext/Zigzag-Clone">
+        <img src="https://play-lh.googleusercontent.com/6pyha8P40IH8Yn7ets-yr-sDmze-lif7Lh80ZMffdBojvhAtGTk88zHru3UHeipNhA" width="100" height="100" alt="ZigZag Game Logo" title="ZigZag Clone"<img/>
       <a/>
-</td></tr></table>
+  </td></tr></table>
   
 <br/>
 <h2 align="left">📫 Contact Me</h2>
