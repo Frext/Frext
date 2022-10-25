@@ -13,7 +13,7 @@ And I’m currently learning Unity and Game Development.
 
 I'm trying to improve myself on gameplay programming.
 
-🖌️ I love drawing and cooking.
+🖌️ I love drawing, cooking and singing.
 
 
 🕹️ My favorite game series is Crysis.
