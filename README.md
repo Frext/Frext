@@ -35,7 +35,7 @@ I'm trying to improve myself on gameplay programming.
 
 
 <br/>
-<h2 align="left">Unity Showcase</h2>
+<h2 align="left">Unity Showcase 💥</h2>
   <table><tr><td>
     <a align="center" href="https://github.com/Frext/Zigzag-Clone">ZigZag Clone<a/> 
       <br/>
