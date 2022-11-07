@@ -38,17 +38,28 @@ I'm trying to improve myself on gameplay programming.
 <h2 align="left">Unity Showcase 💥</h2>
 
   <table style="padding:10px">
-  <tr>
-    <td>
-     <a align="center" href="https://github.com/Frext/Zigzag-Clone">ZigZag Clone<a/> 
-       <br/>
-       <br/>
-       <a href="https://github.com/Frext/Zigzag-Clone">
-       <img src="https://play-lh.googleusercontent.com/6pyha8P40IH8Yn7ets-yr-sDmze-lif7Lh80ZMffdBojvhAtGTk88zHru3UHeipNhA" width="100" height="100" alt="ZigZag Game Logo"<img/>
-     <a/>
-    </td>
-  </tr>
+    <tr>
+     <td>
+       <a align="center" href="https://github.com/Frext/Zigzag-Clone">ZigZag Clone<a/> 
+         <br/>
+         <br/>
+         <a href="https://github.com/Frext/Zigzag-Clone">
+         <img src="https://play-lh.googleusercontent.com/6pyha8P40IH8Yn7ets-yr-sDmze-lif7Lh80ZMffdBojvhAtGTk88zHru3UHeipNhA" width="100" height="100" alt="ZigZag Game Logo"<img/>
+       <a/>    
+     </td>
+         <!--
+     <td>
+      <a align="center" href="https://github.com/Frext">Another Game<a/> 
+        <br/>
+        <br/>
+        <a href="https://github.com/Frext">
+        <img src="" width="100" height="100" alt="Another Game Logo"<img/>
+      <a/>    
+     </td>
+        -->
+    </tr>
   </table>
+
   
 <br/>
 <h2 align="left">📫 Contact Me</h2>
