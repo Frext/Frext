@@ -66,11 +66,9 @@ I'm trying to improve myself on gameplay programming.
      <a align="left" href="https://stackoverflow.com/users/15555081/frext">
 <img src="http://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png?v=c78bd457575a" width="50" height="50" alt="StackOverFlow website logo" title="StackOverFlow"/>
     <a/>
-       
-      <a align="left" href="https://answers.unity.com/users/1273417/furkanusul28.html">
+    <a align="left" href="https://answers.unity.com/users/1273417/furkanusul28.html">
 <img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" width="50" height="50" alt="Unity answers website logo" title="Unity Answers"/>
     <a/>
-        
     <a align="left" href="https://www.buymeacoffee.com/frext">
 <img src="https://bmc-dev.s3.us-east-2.amazonaws.com/assets/icons/bmc_icon_black.png" width="50" height="50" alt="Buy me a coffee website logo" title="Buy me a coffee"/>
     <a/>
