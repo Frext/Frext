@@ -74,7 +74,3 @@ I'm trying to improve myself on gameplay programming.
     <a align="center" href="https://www.buymeacoffee.com/frext">
 <img src="https://bmc-dev.s3.us-east-2.amazonaws.com/assets/icons/bmc_icon_black.png" width="50" height="50" alt="Buy me a coffee website logo" title="Buy Me a Coffee"/>
     <a/>
-      
-
-<br/><br/><br/>
-<img src="https://komarev.com/ghpvc/?username=FrextL&style=flat-square&color=blue" alt="Github View Counter"/>
