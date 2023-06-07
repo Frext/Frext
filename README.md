@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Furkan</h1>
+<h1 align="center">Hi there:raised_hand_with_fingers_splayed:, I'm Furkan</h1>
 
 
 <p align="center">
