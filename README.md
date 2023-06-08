@@ -47,7 +47,7 @@ I'm trying to improve myself on gameplay programming.
          <img src="https://play-lh.googleusercontent.com/6pyha8P40IH8Yn7ets-yr-sDmze-lif7Lh80ZMffdBojvhAtGTk88zHru3UHeipNhA" width="100" height="100" alt="ZigZag Game Logo"<img/>
        <a/>    
      </td>
-         <!--
+      <!--
      <td>
       <a align="center" href="https://github.com/Frext">Another Game<a/> 
         <br/>
@@ -56,7 +56,7 @@ I'm trying to improve myself on gameplay programming.
         <img src="" width="100" height="100" alt="Another Game Logo"<img/>
       <a/>    
      </td>
-        -->
+      -->
     </tr>
   </table>
 
@@ -67,13 +67,5 @@ I'm trying to improve myself on gameplay programming.
 <img src="http://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png?v=c78bd457575a" width="50" height="50" alt="StackOverFlow website logo" title="StackOverFlow"/>
     <a/>
     &nbsp;
-    <a align="center" href="https://answers.unity.com/users/1273417/furkanusul28.html">
-<img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" width="50" height="50" alt="Unity answers website logo" title="Unity Answers"/>
-    <a/>
-    &nbsp;
     <a align="center" href="https://www.buymeacoffee.com/frext">
 <img src="https://bmc-dev.s3.us-east-2.amazonaws.com/assets/icons/bmc_icon_black.png" width="50" height="50" alt="Buy me a coffee website logo" title="Buy Me a Coffee"/>
-    &nbsp;
-        <a align="center" href="https://medium.com/@furkanusul28">
-<img src="https://www.graphicdesignforum.com/uploads/default/original/2X/0/0e58f26a6dd982e7f04d1286defd4320e6d6153b.jpeg" width="50" height="50" alt="Medium website logo" title="Medium"/>
-    <a/>
