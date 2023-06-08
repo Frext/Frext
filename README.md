@@ -6,7 +6,7 @@
 </p>
 
 
-<h2 align="left"> 😎 About Me</h2>
+<h2 align="left">About Me</h2>
 
 Hello, my name is Furkan. I started coding by learning C when I was 13. Later on, I learned C# and Python.\
 And I’m currently learning Unity and Game Development.
