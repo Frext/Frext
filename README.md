@@ -24,13 +24,18 @@ I'm trying to improve myself on gameplay programming.
 <br/>
 <h2 align="left">⚙️ Languages and Tools</h2>
   <p align="left">
-    <a> <img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" alt="unity" title="Unity" width="45" height="45" /> </a>
-    &nbsp;
-    <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c" title="C"   width="41" height="45" /> </a>
-    &nbsp;
-    <a> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" title="C#" width="47" height="45" /> </a>
-    &nbsp;
-     <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" title="Python" width="47" height="45" /> </a>
+    <a href="https://www.programiz.com/c-programming">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c logo" title="C" width="45" height="45" />
+    </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp logo" title="C#" width="45" height="45" />
+    </a>
+    <a href="https://python.org">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" title="Python" width="45" height="45" />
+    </a>
+    <a href="https://unity.com">
+      <img src="https://i.redd.it/tu3gt6ysfxq71.png" alt="unity logo" title="Unity" width="45" height="45" />
+    </a>
   </p>
 
 
@@ -64,8 +69,8 @@ I'm trying to improve myself on gameplay programming.
 <br/>
 <h2 align="left">📫 Contact Me</h2>
      <a align="center" href="https://stackoverflow.com/users/15555081/frext">
-<img src="http://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png?v=c78bd457575a" width="50" height="50" alt="StackOverFlow website logo" title="StackOverFlow"/>
+<img src="http://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png?v=c78bd457575a" width="45" height="45" alt="stackoverflow logo" title="StackOverFlow"/>
     <a/>
     &nbsp;
     <a align="center" href="https://www.buymeacoffee.com/frext">
-<img src="https://bmc-dev.s3.us-east-2.amazonaws.com/assets/icons/bmc_icon_black.png" width="50" height="50" alt="Buy me a coffee website logo" title="Buy Me a Coffee"/>
+<img src="https://bmc-dev.s3.us-east-2.amazonaws.com/assets/icons/bmc_icon_black.png" width="45" height="45" alt="Buy me a coffee logo" title="Buy Me a Coffee"/>
