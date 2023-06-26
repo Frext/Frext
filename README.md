@@ -68,9 +68,10 @@ I'm trying to improve myself on gameplay programming.
   
 <br/>
 <h2 align="left">📫 Contact Me</h2>
-     <a align="center" href="https://stackoverflow.com/users/15555081/frext">
-<img src="http://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png?v=c78bd457575a" width="45" height="45" alt="stackoverflow logo" title="StackOverFlow"/>
-    <a/>
-    &nbsp;
-    <a align="center" href="https://www.buymeacoffee.com/frext">
-<img src="https://bmc-dev.s3.us-east-2.amazonaws.com/assets/icons/bmc_icon_black.png" width="45" height="45" alt="Buy me a coffee logo" title="Buy Me a Coffee"/>
+  <a href="https://www.linkedin.com/in/emre-usul-5a4351189">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin icon" height="30" width="40" />
+  </a>
+  &nbsp;
+  <a align="center" href="https://www.buymeacoffee.com/frext">
+    <img src="https://bmc-dev.s3.us-east-2.amazonaws.com/assets/icons/bmc_icon_black.png" width="45" height="45" alt="Buy me a coffee logo" title="Buy Me a Coffee"/>
+
