@@ -68,7 +68,7 @@ I'm trying to improve myself on gameplay programming.
   
 <br/>
 <h2 align="left">📫 Contact Me</h2>
-  <a href="https://www.linkedin.com/in/emre-usul-5a4351189">
+  <a href="https://www.linkedin.com/in/furkan-usul-a68b7027a/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin icon" height="30" width="40" />
   </a>
   &nbsp;
