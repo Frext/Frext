@@ -22,7 +22,7 @@ I'm trying to improve myself on gameplay programming.
 
 
 <br/>
-<h2 align="left">⚙️ Languages and Tools</h2>
+<h2 align="left">Languages and Tools</h2>
   <p align="left">
     <a href="https://www.programiz.com/c-programming">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c logo" title="C" width="45" height="45" />
@@ -40,7 +40,7 @@ I'm trying to improve myself on gameplay programming.
 
 
 <br/>
-<h2 align="left">Unity Showcase 💥</h2>
+<h2 align="left">Unity Showcase</h2>
 
   <table style="padding:10px">
     <tr>
