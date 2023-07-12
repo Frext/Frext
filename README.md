@@ -39,9 +39,15 @@ I'm trying to improve myself on gameplay programming.
   </p>
 
 
-<br/>
-<h2 align="left">Unity Showcase</h2>
+&nbsp;
+<h2 align="left">
+  <a href="https://unity.com">
+    <img src="https://i.redd.it/tu3gt6ysfxq71.png" width="25" height="25" alt="Unity Icon"/>
+  </a>
+  Unity Showcase
+</h2>
 
+<br/>
   <table style="padding:10px">
     <tr>
      <td>
