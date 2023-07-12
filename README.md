@@ -42,7 +42,7 @@ I'm trying to improve myself on gameplay programming.
 &nbsp;
 <h2 align="left">
   <a href="https://unity.com">
-    <img src="https://i.redd.it/tu3gt6ysfxq71.png" width="25" height="25" alt="Unity Icon"/>
+    <img src="https://i.redd.it/tu3gt6ysfxq71.png" width="22" height="22" alt="Unity Icon"/>
   </a>
   Unity Showcase
 </h2>
