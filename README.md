@@ -18,8 +18,6 @@ I'm currently specializing in gameplay programming to make fun and engaging game
 🕹️ My favorite game series is Crysis.
 
 
-
-
 <br/>
 <h2 align="left">Languages and Tools</h2>
   <p align="left">
