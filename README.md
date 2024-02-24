@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I am Furkan</h1>
+bu<h1 align="center">Hi there, I am Furkan</h1>
 
 
 <p align="center">
@@ -9,8 +9,8 @@
 <h2 align="left">About Me</h2>
 
 Hi, my name is Furkan!\
-I started programming with C in 2020, now proficient in C#, Python, and diving into Unity. 
-Currently, specializing in gameplay programming to make fun and engaging games.
+I started programming with C in 2020, now proficient in C#, Python, and diving into Unity.\
+I'm currently specializing in gameplay programming to make fun and engaging games.
 
 🖌️ I like drawing and cooking.
 
