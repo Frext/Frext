@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, I am Furkan</h1>
 
-
-<p align="center"/>
-
-
 <h2 align="left">About Me</h2>
 
 Hi, my name is Furkan!\
