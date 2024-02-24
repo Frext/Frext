@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I am Furkan!</h1>
+<h1 align="center">Hi there, I am Furkan.</h1>
 
 <h2 align="left">About Me</h2>
 
