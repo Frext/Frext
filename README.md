@@ -8,12 +8,10 @@
 
 <h2 align="left">About Me</h2>
 
-Hello, my name is Furkan. I started coding by learning C when I was 13. Later on, I learned C# and Python.\
-And I’m currently learning Unity and Game Development.
+Hi, my name is Furkan!\I started programming with C in 2020, now proficient in C#, Python, and diving into Unity. 
+Currently, specializing in gameplay programming to make fun and engaging games.
 
-I'm trying to improve myself on gameplay programming.
-
-🖌️ I love drawing, cooking.🍪
+🖌️ I like drawing and cooking.
 
 
 🕹️ My favorite game series is Crysis.
