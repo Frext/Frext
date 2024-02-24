@@ -8,7 +8,7 @@
 
 <h2 align="left">About Me</h2>
 
-Hi, my name is Furkan!/ I started programming with C in 2020, now proficient in C#, Python, and diving into Unity. 
+Hi, my name is Furkan!\I started programming with C in 2020, now proficient in C#, Python, and diving into Unity. 
 Currently, specializing in gameplay programming to make fun and engaging games.
 
 🖌️ I like drawing and cooking.
