@@ -1,4 +1,4 @@
-bu<h1 align="center">Hi there, I am Furkan</h1>
+<h1 align="center">Hi there, I am Furkan</h1>
 
 
 <p align="center">
