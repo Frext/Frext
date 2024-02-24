@@ -10,7 +10,8 @@
 
 Hi, my name is Furkan!\
 I started programming with C in 2020, now proficient in C#, Python, and diving into Unity.\
-I'm currently specializing in gameplay programming to make fun and engaging games.
+I'm currently specializing in gameplay programming to make fun and engaging games.\
+Last, I'm looking forward to publish my first game.
 
 🖌️ I like drawing and cooking.
 
