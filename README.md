@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I am Furkan</h1>
 
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=3000&center=true&width=435&lines=I'm+learning+Game+Development." alt="I'm learning Game Development." /></a>
-</p>
+<p align="center"/>
 
 
 <h2 align="left">About Me</h2>
