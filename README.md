@@ -70,6 +70,3 @@ Last, I'm looking forward to publish my first game.
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin icon" height="30" width="40" />
   </a>
   &nbsp;
-  <a align="center" href="https://www.buymeacoffee.com/frext">
-    <img src="https://bmc-dev.s3.us-east-2.amazonaws.com/assets/icons/bmc_icon_black.png" width="45" height="45" alt="Buy me a coffee logo" title="Buy Me a Coffee"/>
-
