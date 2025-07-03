@@ -3,7 +3,7 @@
 
 <h2 align="left">About Me</h2>
 
-I started programming with C, and now use Python, JavaScript, and C#.\
+I started programming with C in 2020.\
 I specialize in gameplay programming.
 
 &nbsp;
