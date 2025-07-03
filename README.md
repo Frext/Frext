@@ -32,7 +32,6 @@ I specialize in gameplay programming.
 
 &nbsp;
 <h2 align="left">
-
   Unity Showcase
 </h2>
 <br/>
@@ -59,10 +58,7 @@ I specialize in gameplay programming.
     </tr>
   </table>
 <br/>
-
-&nbsp;
 <h2 align="left">Contact Me</h2>
   <a href="https://www.linkedin.com/in/furkan-usul-a68b7027a">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin icon" height="30" width="40" />
   </a>
-  &nbsp;
