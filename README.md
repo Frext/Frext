@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I am Furkan.</h1>
-<h3 align="center">A game development student from Turkey</h3>
+<h3 align="center">A game developer from Turkey</h3>
 
 <h2 align="left">About Me</h2>
 
