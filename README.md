@@ -60,5 +60,5 @@ I specialize in gameplay programming.
 <br/>
 <h2 align="left">Contact Me</h2>
   <a href="https://www.linkedin.com/in/furkan-usul-a68b7027a">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin icon" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin icon" height="35" width="35" />
   </a>
