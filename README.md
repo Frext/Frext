@@ -1,3 +1,5 @@
+[![Help East Turkestan](https://raw.githubusercontent.com/Frext/StandWithUyghurs/main/badge.svg)](https://frext.github.io/StandWithUyghurs/#)
+
 <h1 align="center">Hi there, I am Furkan.</h1>
 <h3 align="center">A game developer from Turkey</h3>
 
