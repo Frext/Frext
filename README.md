@@ -10,7 +10,7 @@ I specialize in gameplay programming.
 <h2 align="left">Languages and Tools</h2>
   <p align="left">
     <a href="https://www.programiz.com/c-programming">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c logo" title="C" width="40" height="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c logo" title="C" width="40" height="40" />
     </a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp logo" title="C#" width="40" height="40" />
