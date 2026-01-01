@@ -11,8 +11,8 @@
 <h2 align="left">📖 About Me</h2>
 
 - 🛠️ **The Journey**: Started with **C** in **2020**, building a technical foundation that has guided my evolution into game development.
-- 🎯 **Focus**: Building robust **Gameplay Systems** and **Mobile Apps**.
-- ⚡ **Passion:** Creating smooth and responsive gameplay systems.
+- 🎯 **Focus**: Specialized in **Gameplay Systems** and cross-platform **Mobile Development**.
+- ⚡ **Passion:** Creating smooth and optimized gameplay systems.
 
 &nbsp;
 <h2 align="left">🛠️ Languages and Tools</h2>
@@ -44,5 +44,5 @@
 &nbsp;
 <h2 align="left">📫 Contact Me</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/furkan-usul-a68b7027a"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin icon" title="LinkedIn" height="30" width="30" /></a>
+<a href="http://www.linkedin.com/in/furkan-u-a68b7027a"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin icon" title="LinkedIn" height="30" width="30" /></a>
 </p>
