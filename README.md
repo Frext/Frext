@@ -21,30 +21,16 @@ I specialize in gameplay programming.
 
 
 &nbsp;
-<h2 align="left">
-  Unity Showcase
-</h2>
-  <table style="padding:5">
-    <tr>
-     <td>
-       <a align="center" href="https://github.com/Frext/Zigzag-Clone">ZigZag Clone<a/> 
-         <br/>
-         <br/>
-         <a href="https://github.com/Frext/Zigzag-Clone">
-         <img src="https://i.imgur.com/c2iMfyf.png" width="100" height="100" alt="ZigZag Game Logo"<img/>
-       <a/>    
-     </td>
-      <!--
-     <td>
-      <a align="center" href="https://github.com/Frext">Another Game<a/> 
-        <br/>
-        <br/>
-        <a href="https://github.com/Frext">
-        <img src="" width="100" height="100" alt="Another Game Logo"<img/>
-      <a/>    
-     </td>
-      -->
+<h2 align="left">Unity Showcase</h2>
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Frext/Zigzag-Clone">
+        <img src="https://i.imgur.com/c2iMfyf.png" width="100px" alt="ZigZag Game Logo"/><br />
+        <strong>ZigZag Clone</strong>
+      </a>
+    </td>
     </tr>
-  </table>
+</table>
 <h2 align="left">Contact Me</h2>
 <a href="https://www.linkedin.com/in/furkan-usul-a68b7027a"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin icon" title="LinkedIn" height="35" width="35" /></a>
