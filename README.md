@@ -23,6 +23,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js logo" title="JavaScript" width="40" height="40" /></a>
 <a href="https://reactnative.dev/"><img src="https://reactnative.dev/img/header_logo.svg" alt="react native logo" title="React Native" width="40" height="40" /></a>
 <a href="https://unity.com"><img src="https://i.redd.it/tu3gt6ysfxq71.png" alt="unity logo" title="Unity" width="40" height="40" /></a>
+<a href="https://java.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java logo" title="Java" width="40" height="40" /></a>
 </p>
 
 &nbsp;
