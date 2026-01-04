@@ -47,3 +47,8 @@
 <p align="left">
 <a href="http://www.linkedin.com/in/furkan-u-a68b7027a"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin icon" title="LinkedIn" height="30" width="30" /></a>
 </p>
+
+&nbsp;
+<p align="left">
+<a href="https://projecteuler.net/profile/frext.png"><img src="https://projecteuler.net/profile/frext.png" alt="linkedin icon" title="LinkedIn"/></a>
+</p>
