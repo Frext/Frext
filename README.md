@@ -1,6 +1,6 @@
 [![Help East Turkestan](https://raw.githubusercontent.com/Frext/FreeUyghurs/main/badge.svg)](https://frext.github.io/FreeUyghurs/#)
 
-<h1 align="center">Hello there! I'm <a href="https://www.linkedin.com/in/furkan-usul-a68b7027a">Furkan</a></h1>
+<h1 align="center">Hello there! I'm <a href="https://www.linkedin.com/in/furkan-u-a68b7027a/">Furkan</a></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -45,7 +45,7 @@
 &nbsp;
 <h2 align="left">📫 Contact Me</h2>
 <p align="left">
-<a href="http://www.linkedin.com/in/furkan-u-a68b7027a"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin icon" title="LinkedIn" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/furkan-u-a68b7027a/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin icon" title="LinkedIn" height="30" width="30" /></a>
 </p>
 
 &nbsp;
