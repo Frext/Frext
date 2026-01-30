@@ -45,7 +45,7 @@
 &nbsp;
 <h2 align="left">📫 Contact Me</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/furkan-usul"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin icon" title="LinkedIn" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/furkan-usul/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin icon" title="LinkedIn" height="30" width="30" /></a>
 </p>
 
 &nbsp;
