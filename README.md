@@ -1,6 +1,6 @@
 [![Help East Turkestan](https://raw.githubusercontent.com/Frext/FreeUyghurs/main/badge.svg)](https://frext.github.io/FreeUyghurs/#)
 
-<h1 align="center">Hello there! I'm <a href="https://www.linkedin.com/in/furkan-u-a68b7027a/">Furkan</a></h1>
+<h1 align="center">Hello there! I'm <a href="https://www.linkedin.com/in/furkan-usul/">Furkan</a></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
