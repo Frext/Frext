@@ -47,11 +47,16 @@
 
 &nbsp;
 <h2 align="left">📫 Contact Me</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/furkan-usul/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin icon" title="LinkedIn" height="30" width="30" /></a>
-</p>
+<table>
+<tr>
+  <td><a href="https://www.linkedin.com/in/furkan-usul/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1280px-LinkedIn_icon.svg.png" alt="linkedin logo" title="LinkedIn" width="40" height="40" /></a></td>
+</tr>
+</table>
 
 &nbsp;
-<p align="left">
-<a href="https://projecteuler.net/profile/frext.png"><img src="https://projecteuler.net/profile/frext.png" alt="linkedin icon" title="LinkedIn"/></a>
-</p>
+<h2 align="left">Badges</h2>
+<table>
+<tr>
+  <td><a href="https://projecteuler.net/profile/frext.png"><img src="https://projecteuler.net/profile/frext.png" alt="project euler badge" title="Project Euler"/></a></td>
+</tr>
+</table>
