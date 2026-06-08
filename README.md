@@ -18,14 +18,14 @@
 <h2 align="left">🛠️ Languages and Tools</h2>
 <table>
 <tr>
-  <td><a href="https://www.programiz.com/c-programming"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c logo" title="C" width="40" height="40" /></a></td>
-  <td><a href="https://learn.microsoft.com/en-us/dotnet/csharp"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp logo" title="C#" width="40" height="40" /></a></td>
-  <td><a href="https://python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python logo" title="Python" width="40" height="40" /></a></td>
-  <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js logo" title="JavaScript" width="40" height="40" /></a></td>
-  <td><a href="https://reactnative.dev/"><img src="https://reactnative.dev/img/header_logo.svg" alt="react native logo" title="React Native" width="40" height="40" /></a></td>
-  <td><a href="https://unity.com"><img src="https://i.redd.it/tu3gt6ysfxq71.png" alt="unity logo" title="Unity" width="40" height="40" /></a></td>
-  <td><a href="https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/"><img src="https://github.com/user-attachments/assets/ead2f569-020c-4f17-931b-24ed63e5245a" alt="winforms logo" title="WinForms" width="40" height="40" /></a></td>
-  <td><a href="https://java.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java logo" title="Java" width="40" height="40" /></a></td>
+  <td><a href="https://www.programiz.com/c-programming"><img src="https://github.com/user-attachments/assets/455c96ae-48dd-4621-ad98-ec69f37710cf" alt="c logo" title="C" width="40" height="40" /></a></td>
+  <td><a href="https://learn.microsoft.com/en-us/dotnet/csharp"><img src="https://github.com/user-attachments/assets/6f424bc0-8f4b-452f-9f16-ad5826982b78" alt="csharp logo" title="C#" width="40" height="40" /></a></td>
+  <td><a href="https://python.org"><img src="https://github.com/user-attachments/assets/ab4b58b0-0e37-49df-bb2f-7ae7202b7528" alt="python logo" title="Python" width="40" height="40" /></a></td>
+  <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/user-attachments/assets/ca240d9d-9d4f-4393-8943-e671ec092bf6" alt="js logo" title="JavaScript" width="40" height="40" /></a></td>
+  <td><a href="https://reactnative.dev/"><img src="https://github.com/user-attachments/assets/83e61c5c-cb5b-4268-8e24-ac5c3f2e4ecb" alt="react native logo" title="React Native" width="40" height="40" /></a></td>
+  <td><a href="https://unity.com"><img src="https://github.com/user-attachments/assets/fc41d5f6-c8b9-4efb-9429-3c90cec33838" alt="unity logo" title="Unity" width="40" height="40" /></a></td>
+  <td><a href="https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/"><img src="https://github.com/user-attachments/assets/7d818f02-bcf8-4ef1-b542-6d725704fd14" alt="winforms logo" title="WinForms" width="40" height="40" /></a></td>
+  <td><a href="https://java.com"><img src="https://github.com/user-attachments/assets/9dbbcd15-01cd-4c97-a06b-72402d6a0439" alt="java logo" title="Java" width="40" height="40" /></a></td>
 </tr>
 </table>
 
@@ -37,7 +37,7 @@
     <td align="center" width="50%">
       <a href="https://github.com/Frext/Zigzag-Clone">
         <strong>ZigZag Clone</strong><br/><br/>
-        <img src="https://i.imgur.com/c2iMfyf.png" width="100" height="100" alt="ZigZag Game Logo" />
+        <img src="https://github.com/user-attachments/assets/b261a4bb-15fd-470b-b8c6-9efd44522234" width="100" height="100" alt="ZigZag Game Logo" />
       </a>
     </td>
     <td align="center" width="50%">
@@ -50,7 +50,7 @@
 <h2 align="left">📫 Contact Me</h2>
 <table>
 <tr>
-  <td><a href="https://www.linkedin.com/in/furkan-usul/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1280px-LinkedIn_icon.svg.png" alt="linkedin logo" title="LinkedIn" width="40" height="40" /></a></td>
+  <td><a href="https://www.linkedin.com/in/furkan-usul/"><img src="https://github.com/user-attachments/assets/d9ab1f1e-cdd4-4dc6-a6fb-3f1139faffd3" alt="linkedin logo" title="LinkedIn" width="40" height="40" /></a></td>
 </tr>
 </table>
 
