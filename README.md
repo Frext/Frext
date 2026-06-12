@@ -31,7 +31,7 @@
 
 
 &nbsp;
-<h2 align="left">🎮 Game Dev Showcase</h2>
+<h2 align="left">🕹️ Game Development Showcase</h2>
 <table width="100%">
   <tr>
     <td align="center" width="50%">
