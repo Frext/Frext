@@ -29,15 +29,20 @@
 </tr>
 </table>
 
-
 &nbsp;
 <h2 align="left">🕹️ Game Development Showcase</h2>
 <table width="100%">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="30%">
       <a href="https://github.com/Frext/Zigzag-Clone">
         <strong>ZigZag Clone</strong><br/><br/>
         <img src="https://github.com/user-attachments/assets/b261a4bb-15fd-470b-b8c6-9efd44522234" width="100" height="100" alt="ZigZag Game Logo" />
+      </a>
+    </td>
+    <td align="center" width="30%">
+      <a href="https://github.com/Frext/PensionTycoon">
+        <strong>Pension Tycoon</strong><br/><br/>
+        <img src="https://github.com/user-attachments/assets/de1eb9be-0f1a-49a7-85d0-cb56dd0eaf4a" width="100" height="100" alt="Pension Tycoon Game Logo" />
       </a>
     </td>
     <td align="center" width="50%">
