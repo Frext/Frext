@@ -24,7 +24,7 @@
   <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/user-attachments/assets/ca240d9d-9d4f-4393-8943-e671ec092bf6" alt="js logo" title="JavaScript" width="40" height="40" /></a></td>
   <td><a href="https://reactnative.dev/"><img src="https://github.com/user-attachments/assets/83e61c5c-cb5b-4268-8e24-ac5c3f2e4ecb" alt="react native logo" title="React Native" width="40" height="40" /></a></td>
   <td><a href="https://unity.com"><img src="https://github.com/user-attachments/assets/fc41d5f6-c8b9-4efb-9429-3c90cec33838" alt="unity logo" title="Unity" width="40" height="40" /></a></td>
-  <td><a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/"><img src="https://github.com/user-attachments/assets/7d818f02-bcf8-4ef1-b542-6d725704fd14" alt="wpf logo" title="WPF" width="40" height="40" /></a></td>
+  <td><a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf"><img src="https://github.com/user-attachments/assets/7d818f02-bcf8-4ef1-b542-6d725704fd14" alt="wpf logo" title="WPF" width="40" height="40" /></a></td>
   <td><a href="https://java.com"><img src="https://github.com/user-attachments/assets/9dbbcd15-01cd-4c97-a06b-72402d6a0439" alt="java logo" title="Java" width="40" height="40" /></a></td>
 </tr>
 </table>
