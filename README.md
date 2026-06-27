@@ -61,4 +61,4 @@
 
 ---
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/furkanusul28?theme=dark&font=JetBrains%20Mono)](https://leetcode.com/u/furkanusul28/)
+<a href="https://leetcode.com/u/furkanusul28/"><img src="https://leetcard.jacoblin.cool/furkanusul28?theme=dark&font=JetBrains%20Mono" alt="leetcode stats" title="LeetCode Stats" width="450" /></a>
