@@ -59,10 +59,6 @@
 </tr>
 </table>
 
-&nbsp;
-<h2 align="left">Badges</h2>
-<table>
-<tr>
-  <td><a href="https://projecteuler.net/profile/frext.png"><img src="https://projecteuler.net/profile/frext.png" alt="project euler badge" title="Project Euler"/></a></td>
-</tr>
-</table>
+---
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/furkanusul28?theme=dark&font=JetBrains%20Mono)](https://leetcode.com/u/furkanusul28/)
