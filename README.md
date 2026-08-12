@@ -10,9 +10,9 @@
 
 <h2 align="left">📖 About Me</h2>
 
-- 🛠️ **The Journey**: Started with **C** in **2020**, building a technical foundation that has guided my evolution into game development.
-- 🎯 **Focus**: Specialized in **Gameplay Systems** and cross-platform **Mobile Development**.
-- ⚡ **Passion:** Creating smooth and optimized gameplay systems.
+- I started my programming journey with **C** in **2020**, building a technical foundation that has guided my evolution into game development.
+- Currently, I specialize in **Gameplay Systems** and cross-platform **Mobile Development**.
+- I love creating smooth and optimized gameplay systems.
 
 &nbsp;
 <h2 align="left">🛠️ Languages and Tools</h2>
